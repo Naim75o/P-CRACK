@@ -7,8 +7,8 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from d import main_apv
-    main_apv()
+    from d import ___RecodeSampah__
+    ___RecodeSampah__()
 elif bit == '32bit':
     print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
  
